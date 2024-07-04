@@ -1,5 +1,5 @@
 # 💫 Hi, I’m Charlotte!
-✏️ I’m working on ... building my coding skills.<br>🌱 I’m currently learning ... python and ruby.
+✏️ I’m working on ... building my coding skills.<br>🌱 I’m currently learning ... python and ruby + everything else
 
 
 # 💻 Tech Stack
